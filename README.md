@@ -8,7 +8,7 @@ Research Projects:
 2. Physics Informed Active Learning for Operator Learning: [link](https://github.com/supercgor/RAS-Deepxde), [legacy](https://github.com/matrixing26/Project-RAS)
 
 Coursework:
-1. Experiment Reports($\latex$): [link](https://github.com/supercgor/texfile)
+1. Experiment Reports($\LATEX$): [link](https://github.com/supercgor/texfile)
 
 2. Computational Physics: [link](https://github.com/supercgor/comp_phys)
 
