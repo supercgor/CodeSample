@@ -12,7 +12,7 @@ Coursework:
 
 2. Computational Physics: [link](https://github.com/supercgor/comp_phys)
 
-Website:
+Websites:
 1. Personal Website: [link](https://supercgor.github.io)
 
 2. MCCA: [web link](https://pkumcca.netlify.app) [code](https://github.com/macau-mcca/web)
