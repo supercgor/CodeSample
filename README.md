@@ -15,7 +15,7 @@ Coursework:
 Website:
 1. Personal Website: [link](https://supercgor.github.io)
 
-2. MCCA: [link](https://github.com/macau-mcca/web)
+2. MCCA: [web link](https://pkumcca.netlify.app) [code](https://github.com/macau-mcca/web)
 
 Contributions:
 1. DeepXDE: [link](https://github.com/lululxvi/deepxde)
